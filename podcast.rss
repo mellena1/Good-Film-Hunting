@@ -5,7 +5,7 @@
   <title>Good Film Hunting</title>
   <link>https://www.goodfilmhunting.andrewmellen.org</link>
   <description>Movie reviews with some Boston college students</description>
-  <atom:linkhref="https://www.goodfilmhunting.andrewmellen.org/podcast.rss"rel="self"type="application/rss+xml" />
+  <atom:link href="https://www.goodfilmhunting.andrewmellen.org/podcast.rss" rel="self" type="application/rss+xml" />
   <item>
     <title>001 - Aladdin and Longshot</title>
     <link></link>
