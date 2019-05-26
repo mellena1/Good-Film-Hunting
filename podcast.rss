@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Good Film Hunting</title>
+  <link>https://www.goodfilmhunting.andrewmellen.org</link>
+  <description>Movie reviews with some Boston college students</description>
+  <atom:linkhref="https://www.goodfilmhunting.andrewmellen.org/podcast.rss"rel="self"type="application/rss+xml" />
+  <item>
+    <title>001 - Aladdin and Longshot</title>
+    <link></link>
+    <description>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</description>
+  </item>
+</channel>
+
+</rss>
