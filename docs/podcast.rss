@@ -22,7 +22,12 @@
     <title>001 - Aladdin and Longshot</title>
     <itunes:title>Aladdin and Longshot</itunes:title>
     <itunes:episode>1</itunes:episode>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:author>Andrew Mellen, Erich Ryan, Bryan Varela</itunes:author>
+    <itunes:duration>00:30:00</itunes:duration>
     <link></link>
+    <guid></guid>
+    <enclosure url="" type="audio/mpeg" length="1024"></enclosure>
     <description>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</description>
     <itunes:summary>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</itunes:summary>
     <pubDate>Wed, 29 May 2019 00:00:00 EST</pubDate>
