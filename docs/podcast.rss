@@ -20,6 +20,8 @@
   <atom:link href="https://www.goodfilmhunting.org/podcast.rss" rel="self" type="application/rss+xml" />
   <item>
     <title>001 - Aladdin and Longshot</title>
+    <itunes:title>Aladdin and Longshot</itunes:title>
+    <itunes:episode>1</itunes:episode>
     <link></link>
     <description>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</description>
     <itunes:summary>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</itunes:summary>
