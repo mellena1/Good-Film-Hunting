@@ -5,7 +5,7 @@
   <title>Good Film Hunting</title>
   <language>en-us</language>
   <image>
-   <url>https://www.goodfilmhunting.org/images/GoodFilmHunting.jpg</url>
+   <url>https://www.goodfilmhunting.org/images/GoodFilmHuntingiTunes.jpg</url>
    <title>Good Film Hunting Logo</title>
    <link>https://www.goodfilmhunting.org</link>
   </image>
@@ -22,6 +22,7 @@
     <link></link>
     <description>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</description>
     <itunes:summary>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</itunes:summary>
+    <pubDate>Wed, 29 May 2019 00:00:00 EST</pubDate>
   </item>
 </channel>
 
