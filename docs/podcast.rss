@@ -5,18 +5,18 @@
   <title>Good Film Hunting</title>
   <language>en-us</language>
   <image>
-   <url>https://www.goodfilmhunting.andrewmellen.org/images/GoodFilmHunting.jpg</url>
+   <url>https://www.goodfilmhunting.org/images/GoodFilmHunting.jpg</url>
    <title>Good Film Hunting Logo</title>
-   <link>https://www.goodfilmhunting.andrewmellen.org</link>
+   <link>https://www.goodfilmhunting.org</link>
   </image>
   <itunes:category text="TV & Film" />
   <itunes:keywords>movie, film, summer, college, funny, boston, review, culture</itunes:keywords>
   <itunes:explicit>yes</itunes:explicit>
   <itunes:author>Andrew Mellen, Erich Ryan, Bryan Varela</itunes:author>
-  <link>https://www.goodfilmhunting.andrewmellen.org</link>
+  <link>https://www.goodfilmhunting.org</link>
   <description>Movie reviews from some Boston college students</description>
   <itunes:summary>Movie reviews from some Boston college students</itunes:summary>
-  <atom:link href="https://www.goodfilmhunting.andrewmellen.org/podcast.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://www.goodfilmhunting.org/podcast.rss" rel="self" type="application/rss+xml" />
   <item>
     <title>001 - Aladdin and Longshot</title>
     <link></link>
