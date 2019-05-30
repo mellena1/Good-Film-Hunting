@@ -10,7 +10,7 @@
    <title>Good Film Hunting Logo</title>
    <link>https://www.goodfilmhunting.org</link>
   </image>
-  <itunes:category text="TV & Film" />
+  <itunes:category text="TV &amp; Film" />
   <itunes:keywords>movie, film, summer, college, funny, boston, review, culture</itunes:keywords>
   <itunes:explicit>yes</itunes:explicit>
   <itunes:author>Andrew Mellen, Erich Ryan, Bryan Varela</itunes:author>
@@ -25,9 +25,9 @@
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>Andrew Mellen, Erich Ryan, Bryan Varela</itunes:author>
     <itunes:duration>01:04:30</itunes:duration>
-    <link>https://drive.google.com/uc?export=download&id=1II5CMK-rJxLOIG60npedcDJOWxn-98gF</link>
-    <guid>https://drive.google.com/uc?export=download&id=1II5CMK-rJxLOIG60npedcDJOWxn-98gF</guid>
-    <enclosure url="https://drive.google.com/uc?export=download&id=1II5CMK-rJxLOIG60npedcDJOWxn-98gF" type="audio/mpeg" length="46438139"></enclosure>
+    <link>https://drive.google.com/uc?export=download&amp;id=1II5CMK-rJxLOIG60npedcDJOWxn-98gF</link>
+    <guid>https://drive.google.com/uc?export=download&amp;id=1II5CMK-rJxLOIG60npedcDJOWxn-98gF</guid>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1II5CMK-rJxLOIG60npedcDJOWxn-98gF" type="audio/mpeg" length="46438139"></enclosure>
     <description>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</description>
     <itunes:summary>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</itunes:summary>
     <pubDate>Thu, 30 May 2019 02:00:00 EST</pubDate>
