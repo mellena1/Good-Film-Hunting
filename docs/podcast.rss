@@ -25,9 +25,9 @@
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>Andrew Mellen, Erich Ryan, Bryan Varela</itunes:author>
     <itunes:duration>01:04:30</itunes:duration>
-    <link>https://dl.dropboxusercontent.com/s/b5zsoacorz82oew/Good%20Film%20Hunting%20001.mp3?dl=0</link>
-    <guid>https://dl.dropboxusercontent.com/s/b5zsoacorz82oew/Good%20Film%20Hunting%20001.mp3?dl=0</guid>
-    <enclosure url="https://dl.dropboxusercontent.com/s/b5zsoacorz82oew/Good%20Film%20Hunting%20001.mp3?dl=0" type="audio/mpeg" length="46438139"></enclosure>
+    <link>https://s3.amazonaws.com/goodfilmhunting/001/Good+Film+Hunting+001.mp3</link>
+    <guid>https://s3.amazonaws.com/goodfilmhunting/001/Good+Film+Hunting+001.mp3</guid>
+    <enclosure url="https://s3.amazonaws.com/goodfilmhunting/001/Good+Film+Hunting+001.mp3" type="audio/mpeg" length="46438139"></enclosure>
     <description>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</description>
     <itunes:summary>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</itunes:summary>
     <pubDate>Thu, 30 May 2019 02:00:00 EST</pubDate>
