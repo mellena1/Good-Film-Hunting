@@ -15,8 +15,8 @@
   <itunes:explicit>yes</itunes:explicit>
   <itunes:author>Andrew Mellen, Erich Ryan, Bryan Varela</itunes:author>
   <link>https://www.goodfilmhunting.org</link>
-  <description>Movie reviews from some Boston college students</description>
-  <itunes:summary>Movie reviews from some Boston college students</itunes:summary>
+  <description>Three bored college students from Boston fill their time with hot takes and scathing reviews about the hit movies of the summer.</description>
+  <itunes:summary>Three bored college students from Boston fill their time with hot takes and scathing reviews about the hit movies of the summer.</itunes:summary>
   <atom:link href="https://www.goodfilmhunting.org/podcast.rss" rel="self" type="application/rss+xml" />
   <item>
     <title>001 - Aladdin and Longshot</title>
@@ -24,13 +24,13 @@
     <itunes:episode>1</itunes:episode>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:author>Andrew Mellen, Erich Ryan, Bryan Varela</itunes:author>
-    <itunes:duration>00:30:00</itunes:duration>
-    <link></link>
-    <guid></guid>
-    <enclosure url="" type="audio/mpeg" length="1024"></enclosure>
+    <itunes:duration>01:04:30</itunes:duration>
+    <link>https://drive.google.com/file/d/1II5CMK-rJxLOIG60npedcDJOWxn-98gF/view?usp=sharing</link>
+    <guid>https://drive.google.com/file/d/1II5CMK-rJxLOIG60npedcDJOWxn-98gF/view?usp=sharing</guid>
+    <enclosure url="https://drive.google.com/file/d/1II5CMK-rJxLOIG60npedcDJOWxn-98gF/view?usp=sharing" type="audio/mpeg" length="46438139"></enclosure>
     <description>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</description>
     <itunes:summary>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</itunes:summary>
-    <pubDate>Wed, 29 May 2019 00:00:00 EST</pubDate>
+    <pubDate>Thu, 30 May 2019 02:00:00 EST</pubDate>
   </item>
 </channel>
 
