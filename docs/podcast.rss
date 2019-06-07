@@ -39,6 +39,21 @@
       <itunes:subtitle>Today we explore the two big movies of the week, Aladdin and Longshot. We also look ahead to what else we are excited to see this summer.</itunes:subtitle>
       <pubDate>Thu, 30 May 2019 02:00:00 EST</pubDate>
     </item>
+    <item>
+      <title>002 - Godzilla and Rocketman</title>
+      <itunes:title>Godzilla and Rocketman</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Andrew Mellen, Erich Ryan, Bryan Varela</itunes:author>
+      <itunes:duration>01:04:51</itunes:duration>
+      <link>https://goodfilmhunting.s3.amazonaws.com/002/Good+Film+Hunting+002.mp3</link>
+      <guid>https://goodfilmhunting.s3.amazonaws.com/002/Good+Film+Hunting+002.mp3</guid>
+      <enclosure url="https://goodfilmhunting.s3.amazonaws.com/002/Good+Film+Hunting+002.mp3" type="audio/mpeg" length="46696765"></enclosure>
+      <description>The summer of great movies has officially begun. This week we have the king of the monsters (Godzilla) and the king of glam rock (Rocketman). We also talk a bit about Brightburn.</description>
+      <itunes:summary>The summer of great movies has officially begun. This week we have the king of the monsters (Godzilla) and the king of glam rock (Rocketman). We also talk a bit about Brightburn.</itunes:summary>
+      <itunes:subtitle>The summer of great movies has officially begun. This week we have the king of the monsters (Godzilla) and the king of glam rock (Rocketman). We also talk a bit about Brightburn.</itunes:subtitle>
+      <pubDate>Fri, 07 June 2019 20:00:00 EST</pubDate>
+    </item>
   </channel>
 
 </rss>
