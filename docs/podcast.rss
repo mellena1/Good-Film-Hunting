@@ -84,6 +84,21 @@
       <itunes:subtitle>SPOILER ALERT!!! A franchise near and dear to our hearts, we had the pleasure (or was it?) of seeing Toy Story 4 this week. Does it deface the franchise or does it do the impossible and improve on a perfect trilogy? Give us a listen to find out!</itunes:subtitle>
       <pubDate>Tue, 2 July 2019 22:45:00 EST</pubDate>
     </item>
+    <item>
+      <title>005 - Late Night</title>
+      <itunes:title>Late Night</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Andrew Mellen</itunes:author>
+      <itunes:duration></itunes:duration>
+      <link>https://goodfilmhunting.s3.amazonaws.com/005/Good+Film+Hunting+005.mp3</link>
+      <guid>https://goodfilmhunting.s3.amazonaws.com/005/Good+Film+Hunting+005.mp3</guid>
+      <enclosure url="https://goodfilmhunting.s3.amazonaws.com/005/Good+Film+Hunting+005.mp3" type="audio/mpeg" length="12989036"></enclosure>
+      <description>This is a quick episode about Mindy Kaling's new movie Late Night. It has decent reviews on Rotten Tomatoes, but does Andrew agree? Come find out!</description>
+      <itunes:summary>This is a quick episode about Mindy Kaling's new movie Late Night. It has decent reviews on Rotten Tomatoes, but does Andrew agree? Come find out!</itunes:summary>
+      <itunes:subtitle>This is a quick episode about Mindy Kaling's new movie Late Night. It has decent reviews on Rotten Tomatoes, but does Andrew agree? Come find out!</itunes:subtitle>
+      <pubDate>Wed, 3 July 2019 23:15:00 EST</pubDate>
+    </item>
   </channel>
 
 </rss>
